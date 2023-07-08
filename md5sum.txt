@@ -1,0 +1,1 @@
+ad30232c1b8fb8a35a1cd492faf54090  wallet-cli.jar
